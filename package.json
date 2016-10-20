@@ -1,0 +1,19 @@
+{
+  "name": "alexa-skill",
+  "version": "1.0.0",
+  "description": "Alexa test skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelmyers/alexa-skill.git"
+  },
+  "author": "Chelsea Myers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelmyers/alexa-skill/issues"
+  },
+  "homepage": "https://github.com/chelmyers/alexa-skill#readme"
+}
