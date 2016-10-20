@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chelmyers/alexa-skill.git"
